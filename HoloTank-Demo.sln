@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloTank-Demo.CSharp", "HoloTank-Demo.CSharp.csproj", "{8FCF5B34-0B59-ED95-CCB4-998A8E9E1C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloTank-Demo.CSharp.Editor", "HoloTank-Demo.CSharp.Editor.csproj", "{11726B55-2AE3-8DFD-2069-61D4EBCA40E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCF5B34-0B59-ED95-CCB4-998A8E9E1C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCF5B34-0B59-ED95-CCB4-998A8E9E1C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCF5B34-0B59-ED95-CCB4-998A8E9E1C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCF5B34-0B59-ED95-CCB4-998A8E9E1C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11726B55-2AE3-8DFD-2069-61D4EBCA40E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11726B55-2AE3-8DFD-2069-61D4EBCA40E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11726B55-2AE3-8DFD-2069-61D4EBCA40E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11726B55-2AE3-8DFD-2069-61D4EBCA40E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
