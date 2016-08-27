@@ -14,7 +14,7 @@ public class TankCommands : MonoBehaviour {
     // Update is called once per frame
     void Update () {
         if (isRotating)
-            this.transform.Rotate(new Vector3(45, 0, 0) * Time.deltaTime);
+            this.transform.Rotate(new Vector3(0, 45, 0) * Time.deltaTime);
     }
 
     // Called by SpeechManager when the user says the "Rotate Model" command
