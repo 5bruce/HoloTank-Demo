@@ -23,6 +23,18 @@ public class SpeechManager : MonoBehaviour
             this.BroadcastMessage("OnRotateStop");
         });
 
+        keywords.Add("Display Mesh", () =>
+        {
+            // Call the OnReset method on every descendant object.
+            this.BroadcastMessage("OnDisplayMesh");
+        });
+
+        keywords.Add("Hide Mesh", () =>
+        {
+            // Call the OnReset method on every descendant object.
+            this.BroadcastMessage("OnHideMesh");
+        });
+
         // Tell the KeywordRecognizer about our keywords.
         keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
 
