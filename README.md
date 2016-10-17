@@ -7,6 +7,7 @@ The demo shows a holographic tank, which was imported from the [Tanks! Tutorial]
 * Simple model viewer app that displays a tank floating 2 meters in front of the user at launch
 * Gaze around the space to move the tank and tap to lock the tank in place
 * Say "Rotate model" out loud to make the tank spin in place, or "Stop rotation" to stop it
+* Show or hide the spatial mesh of your environment with the "display mesh" and "hide mesh" voice commands
 * Tank idling sound now uses spatial sound on HoloLens
 
 ## Follow Me
