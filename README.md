@@ -10,6 +10,8 @@ The demo shows a holographic tank, which was imported from the [Tanks! Tutorial]
 * Show or hide the spatial mesh of your environment with the "display mesh" and "hide mesh" voice commands
 * Tank idling sound now uses spatial sound on HoloLens
 
+![Screenshot](Screenshots/20161026_215928_HoloLens.jpg)
+
 ## Implementation Notes
 * The tank doesn't have any Rigidbody gravity setting turned on for now.
 * There is some leftover drag on the tank that neds to be fixed since it has a tendency to drift after being placed by the user.
