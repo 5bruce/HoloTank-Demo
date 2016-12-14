@@ -3,6 +3,8 @@ Simple holographic viewer demo to show a 3D model in a mixed reality setting usi
 
 The demo shows a holographic tank, which was imported from the [Tanks! Tutorial](https://www.assetstore.unity3d.com/en/#!/content/46209) from Unity Essentials, introduced at Unity Training Day 2015.
 
+**Unity version: 5.5.0f3 Release.**
+
 ## Features
 * Simple model viewer app that displays a tank floating 2 meters in front of the user at launch
 * Gaze around the space to move the tank and tap to lock the tank in place
